@@ -1,2 +1,2 @@
-# classical_ml
-A repository with implementation of classical ML algorithms
+# Implementation of classical ML algorithms
+A repository with the implementation of classical ML algorithms
