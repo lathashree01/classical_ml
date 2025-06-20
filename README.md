@@ -1,17 +1,12 @@
-# Implementation of classical ML algorithms
+# Implementation of ML algorithms from scratch
 
-A repository with the implementation of classical ML algorithms
+A repository with the implementation of classical ML algorithms and other ML related topics from scratch. 
 
-
-# Classical Machine Learning Algorithms from Scratch
-
-This repository contains implementations of classical machine learning algorithms in pure Python (without external ML libraries like scikit-learn).
-
-## ✅ Progress Tracker
+## Progress Tracker
 
 ### **Supervised Learning**
 
-- [ ] **Linear Regression** (Normal Equation, Gradient Descent)
+- [x] **Linear Regression** (Normal Equation, Gradient Descent)
 - [ ] **Logistic Regression** (Sigmoid Activation, Cross-Entropy Loss)
 - [ ] **k-Nearest Neighbours (k-NN)** (Distance Computation: Euclidean, Manhattan)
 - [ ] **Naïve Bayes Classifier** (Gaussian, Multinomial)
@@ -40,16 +35,15 @@ This repository contains implementations of classical machine learning algorithm
 
 - [ ] **PageRank Algorithm** (Power Iteration Method)
 
-## 🚀 How to Use
-
-Each algorithm is implemented in pure Python in jupyter notebooks with detailed explanations.
+## Usage of the repository
+Each algorithm is implemented from scratch in jupyter notebooks with detailed explanations (where possible). Some visualisations are also included to help understand the concepts better. You can run the notebooks directly in your browser using Jupyter Notebook or Jupyter Lab.
 
 ## Installation
 
 To install jupyter notebook, you can use pip:
 
 ```bash
-pip install notebook
+pip install 
 ```
 To run the jupyter notebook, use the following command:
 

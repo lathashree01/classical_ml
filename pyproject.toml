@@ -1,0 +1,7 @@
+[project]
+name = "classical-ml"
+version = "0.1.0"
+description = "Implementation of ML algorithms and concepts from scratch"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
